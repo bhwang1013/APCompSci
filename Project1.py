@@ -2,4 +2,4 @@ name = "Brendan"
 
 print "Hello my name is: " + name
 
-print "Bryce sucks"
+print "Bryce rocks"
